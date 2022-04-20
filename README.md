@@ -1,6 +1,7 @@
+
 # Flutter Credit Card Scanner
 
-Credit card scanning plugin for Android and iOS.
+Credit card scanning for Android and iOS.
 
 ## iOS
 
@@ -50,3 +51,5 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.9'
 }
 ```
+
+Fork https://github.com/yauheniprakapenka/card_scanner_v1
