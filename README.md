@@ -30,7 +30,7 @@ The library is used [card.io](https://github.com/card-io/card.io-Android-SDK), f
 ```
 - Added library
 
-credit_card_scanner/example/ios/Runner.xcworkspace -> while navigating Runnter -> справа Project Runner -> Packages Dependencies -> +
+credit_card_scanner/example/ios/Runner.xcworkspace -> while navigating Runner -> Project Runner -> Packages Dependencies -> +
 
 ```
 https://github.com/yhkaplan/credit-card-scanner.git
